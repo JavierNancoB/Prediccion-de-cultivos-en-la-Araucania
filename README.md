@@ -1,1 +1,1 @@
-# Predicci-n-de-cultivos-en-la-Araucan-a
+# Prediccion-de-cultivos-en-la-Araucania
